@@ -1,0 +1,83 @@
+{
+	"ImportPath": "github.com/jicg/App",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context/param",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.3-7-g15dbaae",
+			"Rev": "15dbaaedd46b79251eaa9c8ed5f280d28978bb3f"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/mysql",
+			"Comment": "v1.9.1-18-g3245508",
+			"Rev": "32455088f24d6b1e9a502fb8e40fdc16139dbea8"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "182538f80094b6a8efaade63a8fd8e0d9d5843dd"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "182538f80094b6a8efaade63a8fd8e0d9d5843dd"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "b336a971b799939dd16ae9b1df8334cb8b977c4d"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "b336a971b799939dd16ae9b1df8334cb8b977c4d"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.2.1",
+			"Rev": "5420a8b6744d3b0345ab293f6fcba19c978f1183"
+		}
+	]
+}
